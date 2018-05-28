@@ -3,13 +3,14 @@ An example repo for blog post
 
 ## location test
 
-post url: 
+post url: https://dreamanddead.github.io/2018/05/28/nginx-location.html
+
 
 usage
 
 ```
 $ cd location
-$ sudo docker-compose up -d
+$ suppdo docker-compose up -d
 ```
 
 than follow what the post does.
